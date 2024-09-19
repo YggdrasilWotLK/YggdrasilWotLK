@@ -11,7 +11,7 @@ Hey there! I'm the main maintainer and developer of Yggdrasil WoW 🌳, an Azero
 
 **Python Scripts** 📜: Explore my Python utilities and automation scripts to see how I simplify workflows.  
 **LUA Scripts** 🔧: From WoW addons to ELUNA game modifications, LUA is a powerful tool in my arsenal.  
-**WoW Private Server** 🐉: Dive into Yggdrasil, where you'll find a vibrant community, balanced gameplay, and a rich game world. Check out our rules and more!  
+**WoW Private Server** 🐉: Dive into Yggdrasil, where you'll find a vibrant community, balanced gameplay, and a rich game world.
 
 ![toplang](https://github.com/user-attachments/assets/32acefe6-cf50-44f3-9d03-e25cdb50781d)
       <svg
