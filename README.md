@@ -13,4 +13,7 @@ Hey there! I'm the main maintainer and developer of Yggdrasil WoW 🌳, an Azero
 **LUA Scripts** 🔧: From WoW addons to ELUNA game modifications, LUA is a powerful tool in my arsenal.  
 **WoW Private Server** 🐉: Dive into Yggdrasil, where you'll find a vibrant community, balanced gameplay, and a rich game world. Check out our rules and more!  
 
+[![Mostly nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=YggdrasilWotLK)](https://github.com/anuraghazra/github-readme-stats)
+
 Feel free to explore my repositories and reach out if you’re interested in collaborating or learning more!  
+
