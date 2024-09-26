@@ -1,4 +1,4 @@
-# 🌟 Welcome to @YggdrasilWotLK! 🌟
+# Welcome to @YggdrasilWotLK!
 
 Hey there! I'm the main maintainer and developer of Yggdrasil WoW 🌳, an AzerothCore-based WotLK 3.3.5a private server. When I author code, I mostly go by 'mostly nick :)'. I'm passionate about writing code in Python 🐍 and ELUNA LUA ⚙️. 
 
