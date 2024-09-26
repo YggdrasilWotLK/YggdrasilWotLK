@@ -14,15 +14,6 @@ Hey there! I'm the main maintainer and developer of Yggdrasil WoW 🌳, an Azero
 
 **World of Warcraft Private Server Management** 🏰: I manage the Yggdrasil server, creating a fair, fun, and community-driven WoW WotLK experience for players.  
 
-![toplang](https://github.com/user-attachments/assets/32acefe6-cf50-44f3-9d03-e25cdb50781d)
-      <svg
-        width="300"
-        height="205"
-        viewBox="0 0 300 205"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-        role="img"
-        aria-labelledby="descId"
-      >
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yggdrasilwotlk&layout=compact)
       
 Feel free to explore my repositories and reach out if you’re interested in collaborating or learning more.
