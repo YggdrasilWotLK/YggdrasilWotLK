@@ -4,14 +4,11 @@ Hey there! I'm the main maintainer and developer of Yggdrasil WoW 🌳, an Azero
 
 ### 🚀 **What I Do:** 
 
-**Python Development** 🧑‍💻: From automating tasks to managing data and crafting scripts, Python is my go-to language.  
-**ELUNA LUA Scripting** 💡: Efficient and streamlined, LUA is key to many of my scripting projects, especially for WoW. 
-**World of Warcraft Private Server Management** 🏰: I manage the Yggdrasil server, creating a fair, fun, and community-driven WoW experience for players. 
-### 🔥 **Projects:**
-
-**Python Scripts** 📜: Explore my Python utilities and automation scripts to see how I simplify workflows.  
-**LUA Scripts** 🔧: From WoW addons to ELUNA game modifications, LUA is a powerful tool in my arsenal.  
-**WoW Private Server** 🐉: Dive into Yggdrasil, where you'll find a vibrant community, balanced gameplay, and a rich game world.
+**ELUNA LUA Scripting** 💡: LUA is my go-to for game development and scripting. I especially use the ELUNA LUA engine for AzerothCore and TrinityCore scripting, bug fixing and feature development. This is my main competence and I spend roughly 10-15 hours a week of my development time on LUA. 
+**Python Development** 🧑‍💻: I use Python for data processing, conversion and WoW macro creation from .LUA files. I spend some 5-10 hours a week on this. 
+**Web Development** ☁️: When it comes to integrating the services above with the outside world, I work with HTML, CSS, PHP and JS. I spent some 5-10 hours a week on these languges.
+**MySQL Database Management**🗃️ : I'm interested in load optimizations of MySQL databases, query executions, and more. I spent some 1-5 hours a week on this depending on the workload present. 
+**World of Warcraft Private Server Management** 🏰: With this knowledge, I manage the Yggdrasil server, creating a fair, fun, and community-driven WoW WotLK experience for players. 
 
 ![toplang](https://github.com/user-attachments/assets/32acefe6-cf50-44f3-9d03-e25cdb50781d)
       <svg
@@ -24,5 +21,4 @@ Hey there! I'm the main maintainer and developer of Yggdrasil WoW 🌳, an Azero
         aria-labelledby="descId"
       >
       
-Feel free to explore my repositories and reach out if you’re interested in collaborating or learning more!  
-
+Feel free to explore my repositories and reach out if you’re interested in collaborating or learning more.
